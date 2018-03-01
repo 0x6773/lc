@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://me.mnciitbhu.me"
+redirect_to: "https://mnciitbhu.me/"
 ---
