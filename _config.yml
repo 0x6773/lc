@@ -1,10 +1,10 @@
-title: mnciitbhu
-description: site uses jekyll and github pages
+title: lets-code
+description: lets learn to code
 google_analytics: 
 theme: jekyll-theme-hacker
 
 github:
-  repository_url: https://mnciitbhu.me/github
+  repository_url: https://mnciitbhu.me/lets-code/github
 
-gems:
-  - jekyll-redirect-from
+#plugins:
+  #- jekyll-redirect-from
